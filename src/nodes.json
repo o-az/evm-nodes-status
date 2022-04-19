@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Infura",
+    "url": "https://infura.io/",
+    "displayUrl": "infura.io",
+    "free": "Freemium"
+  },
+  {
+    "name": "Alchemy",
+    "url": "https://dashboard.alchemyapi.io/signup?referral=b9ca5e4c-a0cf-4b98-8735-6bca079da09b",
+    "displayUrl": "alchemy.com",
+    "free": "Freemium"
+  },
+  {
+    "name": "Moralis",
+    "url": "https://moralis.io/",
+    "displayUrl": "moralis.io",
+    "free": "Freemium"
+  },
+  {
+    "name": "MyCrypto",
+    "url": "https://mycrypto.com/",
+    "displayUrl": "mycrypto.com",
+    "free": "Free"
+  },
+  {
+    "name": "Flashbots Protect",
+    "url": "https://flashbots.net/",
+    "displayUrl": "flashbots.net",
+    "free": "Free"
+  },
+  {
+    "name": "RIVET",
+    "url": "https://rivet.cloud/",
+    "displayUrl": "rivet.cloud",
+    "free": "Freemium"
+  },
+  {
+    "name": "Pocket Network",
+    "url": "https://pokt.network/",
+    "displayUrl": "pokt.network",
+    "free": "Freemium"
+  },
+  {
+    "name": "Cloudflare",
+    "url": "https://cloudflare-eth.com/",
+    "displayUrl": "cloudflare-eth.com",
+    "free": "Free"
+  },
+  {
+    "name": "Blockscout",
+    "url": "https://blockscout.com/",
+    "displayUrl": "blockscout.com",
+    "free": "Free"
+  },
+  {
+    "name": "MyEtherWallet",
+    "url": "https://myetherwallet.com/",
+    "displayUrl": "myetherwallet.com",
+    "free": "Free"
+  },
+  {
+    "name": "LinkPool",
+    "url": "https://linkpool.io/",
+    "displayUrl": "linkpool.io",
+    "free": "Freemium"
+  },
+  {
+    "name": "AVADO",
+    "url": "https://ava.do/",
+    "displayUrl": "ava.do",
+    "free": "Free"
+  },
+  {
+    "name": "Quiknode",
+    "url": "https://www.quiknode.io/",
+    "displayUrl": "quiknode.io",
+    "free": "Paid"
+  },
+  {
+    "name": "AnyBlock",
+    "url": "https://anyblock.tools/",
+    "displayUrl": "anyblock.tools",
+    "free": "Freemium"
+  },
+  {
+    "name": "Chainstack",
+    "url": "https://chainstack.com/",
+    "displayUrl": "chainstack.com",
+    "free": "Freemium"
+  },
+  {
+    "name": "ArchiveNode",
+    "url": "https://archivenode.io/",
+    "displayUrl": "archivenode.io",
+    "free": "Free"
+  },
+  {
+    "name": "Flux",
+    "url": "https://runonflux.io/",
+    "displayUrl": "runonflux.io",
+    "free": "Free"
+  }
+]
