@@ -16,3 +16,18 @@ export const checkInfura: CheckInfura = async () => {
     return false
   }
 }
+
+// export const pingRPCEndpoint = async (endpoint: string) => {
+//   try {
+//     const { data } = await axios.post(endpoint, { jsonrpc: '2.0', method: 'eth_blockNumber', params: [], id: 1 })
+//     return data
+//   } catch (error) {
+//     if (axios.isAxiosError(error)) {
+//       return error.response?.data
+//     }
+//     if (error instanceof Error) {
+//       return error.message
+//     }
+//     return false
+//   }
+// }

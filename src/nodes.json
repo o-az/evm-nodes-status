@@ -3,7 +3,10 @@
     "name": "Infura",
     "url": "https://infura.io/",
     "displayUrl": "infura.io",
-    "free": "Freemium"
+    "free": "Freemium",
+    "requiresKey": true,
+    "status": "https://status.infura.io/api/v2/status.json",
+    "rpcEndpoint": ""
   },
   {
     "name": "Alchemy",
@@ -15,7 +18,8 @@
     "name": "Moralis",
     "url": "https://moralis.io/",
     "displayUrl": "moralis.io",
-    "free": "Freemium"
+    "free": "Freemium",
+    "rpcEndpoint": "https://status.moralis.io"
   },
   {
     "name": "MyCrypto",
@@ -45,13 +49,15 @@
     "name": "Cloudflare",
     "url": "https://cloudflare-eth.com/",
     "displayUrl": "cloudflare-eth.com",
-    "free": "Free"
+    "free": "Free",
+    "rpcEndpoint": "https://www.cloudflarestatus.com/api/v2/status.json"
   },
   {
     "name": "Blockscout",
     "url": "https://blockscout.com/",
     "displayUrl": "blockscout.com",
-    "free": "Free"
+    "free": "Free",
+    "rpcEndpoint": "https://blockscout.com/eth/mainnet/api/eth-rpc"
   },
   {
     "name": "MyEtherWallet",
