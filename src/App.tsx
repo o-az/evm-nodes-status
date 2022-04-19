@@ -12,7 +12,7 @@ function App() {
     console.log(event)
   }
   return (
-    <main className="bg-[#3a406a] text-[#f7f7f7] pt-8 p-4">
+    <main className="text-[#f7f7f7] pt-8 p-4">
       <section className="flex w-full  h-full justify-center items-center text-center justify-items-center p-4">
         <div className="relative overflow-x-auto shadow-md sm:rounded-lg">
           <table className="w-full text-sm text-left text-gray-500 dark:text-gray-400">
